@@ -166,14 +166,14 @@ body {
     font-size: 16px;
     width: 300px;
     border-radius: 8px;
-    border: 2px solid #2980b9; /* Blue border for search input */
+    border: 2px solid #2980b9;
     outline: none;
-    background-color: #f7f8f9; /* Dark background for input */
+    background-color: #f7f8f9; 
     color: rgb(30, 27, 27);
   }
   
   .searchContainer input:focus {
-    border-color: #3498db; /* Lighter blue on focus */
+    border-color: #3498db;
   }
   
   .searchContainer button {
@@ -219,7 +219,7 @@ body {
     margin-top: 20px;
   }
   
-  /* Styling for unit toggle (Celsius/Fahrenheit) */
+
   .unitToggle {
     display: flex;
     justify-content: center;
