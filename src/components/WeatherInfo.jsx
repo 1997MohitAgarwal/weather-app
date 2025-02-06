@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { WeatherContext } from "../contexts/WeatherContext";
 import { WiHumidity, WiStrongWind } from 'react-icons/wi';
 import { FaTemperatureHigh, FaLocationArrow } from 'react-icons/fa';
-import styles from "../styles/Weather.module.css";
+import styles from "../styles/weather.module.css";
 
 const WeatherInfo = () => {
   const { weatherData, forecastData, unit, setUnit } =

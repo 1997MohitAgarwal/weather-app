@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../styles/Weather.module.css';
+import styles from '../styles/weather.module.css';
 const Navbar = () => {
   return (
     <div className={styles.navbar}>

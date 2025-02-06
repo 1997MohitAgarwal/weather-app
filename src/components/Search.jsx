@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { WeatherContext } from '../contexts/WeatherContext';
-import styles from '../styles/Weather.module.css';
+import styles from '../styles/weather.module.css';
 
 const Search = () => {
   const { setCity } = useContext(WeatherContext);
