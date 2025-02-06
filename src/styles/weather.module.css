@@ -268,7 +268,7 @@ body {
     }
     .forecastItem{
         width:95px;
-        background: rgba(21, 10, 10, 0.6);
+        background: rgba(21, 10, 10, 0.5);
         flex-grow: 1;
     }
     .weatherCard{
